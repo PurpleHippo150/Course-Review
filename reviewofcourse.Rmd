@@ -1,0 +1,41 @@
+---
+title: "Review for Git"
+output: html_document
+date: "2026-02-28"
+---
+
+# Course Reflection: What I Learned Each Week
+
+## Week 1: Predictive Modeling & Processes
+- I learned the overall data science process, including how to load and export data in R and how R Markdown helps organize and document analysis.
+- I learned the basics of predictive modeling, how to evaluate models, and how the bias-variance tradeoff impacts model performance.
+
+## Week 2: Data Exploration
+- I learned how to use summary statistics and visualizations to explore and better understand a dataset.
+- I learned how to handle missing values and apply data transformations to prepare data for modeling.
+
+## Week 3: Linear Regression
+- I learned how linear regression works and how to apply it to real-world problems.
+- I learned about the key assumptions of linear regression and why checking those assumptions is important for accurate results.
+
+## Week 4: Classification
+- I learned the difference between regression and classification and how logistic regression is used for classification problems.
+- I learned how to evaluate classification models using performance measures like precision and recall.
+
+## Week 5: Generalized Linear Models (GLMs)
+- I learned how generalized linear models extend linear regression to handle different types of response variables.
+- I learned how Poisson regression and Gamma regression are used for count data and continuous positive data.
+
+## Week 6: Tree-Based Models
+- I learned how decision trees work and how they can be used for both regression and classification tasks.
+- I learned how ensemble methods like random forests and gradient boosting improve model accuracy.
+
+## Week 7: Unsupervised Methods
+- I learned how k-means clustering groups similar data points together without a labeled outcome.
+- I learned how cluster analysis can be applied to real datasets, such as customer or credit card data.
+
+## Week 8: Delivering Results
+- I learned the importance of clear documentation and effective presentations when sharing results.
+- I learned how to use Git and GitHub to manage versions of my work and share projects professionally.
+
+
